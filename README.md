@@ -9,6 +9,7 @@ Step2: create new firefox profile using Win+R => "firefox -p"
        Add path of your Profile to this code
        
 Step3: Write condition
+
 Step4: Run and enjoin
 
 If your code can't run, you have to download geckodriver.exe and put it same folder of this file.
